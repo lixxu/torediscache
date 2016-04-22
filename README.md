@@ -1,2 +1,2 @@
 # torediscache
-Small tornado-redis cache stuff tool for personal projects
+Small tornado-redis cache/flash stuff tool for personal projects
